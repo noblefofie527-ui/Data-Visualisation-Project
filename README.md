@@ -14,4 +14,5 @@ This project focuses on Basic Data Visualisation using Python, Matplotlib, and S
 
 ## Visuals
 ![Bar Chart](bar_chart.png)
+
 ![Line Chart](line_chart.png)
