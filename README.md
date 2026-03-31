@@ -16,3 +16,5 @@ This project focuses on Basic Data Visualisation using Python, Matplotlib, and S
 ![Bar Chart](bar_chart.png)
 
 ![Line Chart](line_chart.png)
+
+![Scatter Plot](data_vis_scatter_plot.png)
